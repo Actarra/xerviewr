@@ -86,7 +86,7 @@ testpath==0.5.0
 #tornado==6.1
 traitlets==5.0.5
 urllib3==1.26.6
-vc==14.2
+#vc==14.2
 voila==0.2.11
 vs2015_runtime==14.27.29016
 wcwidth==0.2.5
