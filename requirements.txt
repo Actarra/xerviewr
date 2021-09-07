@@ -95,6 +95,6 @@ websocket-client==1.2.1
 wheel==0.37.0
 widgetsnbextension==3.5.1
 wincertstore==0.2
-winpty==0.4.3
+#winpty==0.4.3
 yarg==0.1.9
 zipp==3.5.0
