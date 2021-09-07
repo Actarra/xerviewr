@@ -7,7 +7,7 @@ async_generator==1.10
 attrs==21.2.0
 backcall==0.2.0
 bleach==4.0.0
-ca-certificates==2021.7.5
+#ca-certificates==2021.7.5
 certifi==2021.5.30
 cffi==1.14.6
 charset-normalizer==2.0.4
@@ -69,7 +69,7 @@ pyrsistent==0.17.3
 python==3.8.11
 python-dateutil==2.8.2
 pytz==2021.1
-pywin32==228
+#pywin32==228
 pywinpty==0.5.7
 pyzmq==22.2.1
 requests==2.26.0
