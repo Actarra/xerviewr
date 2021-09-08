@@ -1,1 +1,1 @@
-﻿web: voila --port=$PORT --no-browser simplebutt.ipynb
+﻿web: voila --port=$PORT --no-browser cpm01.ipynb
